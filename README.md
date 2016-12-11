@@ -9,7 +9,7 @@ De opdracht bestaat uit twee type eisen, functionele eisen en technische eisen. 
 
 Lingo is een woordspel dat een combinatie is van Mastermind en Bingo. Twee teams van twee mensen gaan met elkaar de strijd aan.
 
-Het team dat aan de beurt is krijgt 5 pogingen om een woord te raden waarvan de beginletter gegeven is. De lange Ĳ telt als één letter. Het team mag niet overleggen. Bij elke poging wordt aangegeven welke letters op de juiste plaats staan (rood vakje) en welke letters in het woord zitten maar op een verkeerde plaats (gele cirkel). Bij overschrijding van de bedenktijd mag het andere team deze poging spelen met een bonusletter(een extra letter die op de juiste plaats wordt gezet).
+Het team dat aan de beurt is krijgt 5 pogingen om een woord te raden waarvan de beginletter gegeven is. De lange Ĳ telt als één letter. Het team mag niet overleggen. Bij elke poging wordt aangegeven welke letters op de juiste plaats staan (rood vakje) en welke letters in het woord zitten maar op een verkeerde plaats (gele cirkel). Bij overschrijding van de bedenktijd mag het andere team deze poging spelen met een bonusletter (een extra letter die op de juiste plaats wordt gezet).
 
 ###Functionele eisen
 Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennisniveau.
