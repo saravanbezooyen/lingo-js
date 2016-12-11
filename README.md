@@ -26,7 +26,7 @@ Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet 
 Het spel moet aan de volgende technische eisen voldoen:
 * De presentatie van het spel is gemaakt door gebruik te maken van HTML en CSS.
 * De logica van het spel is geprogrammeert in Javascript.
-* De woordenlijst (lingo-nl.js) wordt ingeladen doormiddel van <script> tags.
+* De woordenlijst (lingo-nl.js) wordt ingeladen doormiddel van \<script\> tags.
 * Het spel selecteert willekeurig (random) een woord uit de woordenlijst. 
 
 ###Bonus
