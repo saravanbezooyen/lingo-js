@@ -11,9 +11,6 @@ var game = new Game('naam');
 var randomWord = game.RandomWoord;
 console.log(game.randomWord);
 
-//Als eerste check je of de gebruiker het woord geraden heeft. 
-//Zo niet dan kijk je of de letter er in voorkomt en mocht dat het geval zijn dan pas, of het woord ook op de juiste plek staat.
-
 function wordChecker(word, int) {
 	if (word == game.randomWord) {
         console.log("win");
@@ -53,15 +50,3 @@ Array.prototype.random = function() {
   }
 
 var game = new Game();
-
-/*b* a l - *b* a k
-*b* a l - b *a* k
-*b* a l - b a *k*
-
-b *a* l - *b* a k
-b *a* l - b *a* k
-b *a* l- b a *k*
-
-b a *l* - *b* a k
-b a *l *- b *a* k
-b a *l* - b a *k*/
